@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/eb/6d/ed/eb6dedb48527a65af6275ac85829d0ec.jpg);
+    border-image-repeat: unset;
+}
+
+#inte{
+    text-align: center;
+    text-decoration: overline;
+    color: white;
+    text-decoration-line: overline;
+    font-size: 250%;
+    font-family: cursive;
+
+}
+
+#nombres{
+    text-align: center;
+    text-decoration: overline;
+    color: rgb(238, 255, 4);
+    font-size: 190%;
+    font-family: cursive;
+    
+}
+
+#boton{
+    text-align: center;
+}

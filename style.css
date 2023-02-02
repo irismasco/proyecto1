@@ -1,0 +1,208 @@
+h1{
+    color: blue;
+    font-size: 200%;
+    font-family: cursive;
+}
+
+body {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+  #grad {
+    background-image: url(https://i.pinimg.com/736x/50/db/28/50db288a310f11466909cfd77f4f4a2d.jpg);
+    backdrop-filter: blur(6px);
+  }
+
+  #grad2 {
+    background-image :  url(https://i.pinimg.com/736x/94/dd/bb/94ddbb26fc16c4eec5d0774cc8843a00.jpg);
+    backdrop-filter: blur(4px);
+  }
+  #grad3 {
+    background-image: url(https://i.pinimg.com/736x/7d/02/72/7d02725ec91eba1ed6b96e78756148ea.jpg);
+    backdrop-filter: blur(4px);
+}
+
+#img1{
+    width: 30%;
+    height: 30%;
+}
+#listalbum{
+    text-align: center;
+    background-color: black;}
+#texto1{
+    
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    color: rgb(250, 249, 253);
+    font-size: 200%;
+    background-color: rgb(92, 125, 141);
+}
+#titulo{
+    border-style: dashed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 700%;
+    color: rgb(30, 6, 248);
+    text-align: center;
+    text-decoration: overline;
+    text-decoration: dashed;
+    background-color: rgb(255, 239, 10);
+}
+
+#img2{
+    width: 40%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+#home{
+background-color: chocolate;
+font-family: cursive;
+color: black;
+text-align: center;}
+
+
+#historia{
+    background-color: rgb(98, 233, 86);
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+#album{
+    background-color: rgb(242, 245, 67);
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+#corrido{
+    background-color: rgb(228, 49, 49);
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
+#img3{
+    width: 40%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+#img4{
+    width: 40%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+#img5{
+    width: 40%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+#uno{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 180%;
+    text-decoration: double;
+    color: rgb(252, 252, 252);
+}
+
+#dos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 180%;
+    text-decoration: double;
+    color: rgb(26, 255, 114);
+}
+
+#tres{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 180%;
+    text-decoration: double;
+    color: rgb(255, 255, 255);
+}
+
+#cuatro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 180%;
+    text-decoration: double;
+    color: rgb(255, 136, 0);
+}
+
+#cinco{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 180%;
+    text-decoration: double;
+    color: rgb(245, 245, 245);
+}
+
+#carouselExampleInterval{
+    width: 80%;
+    height: 90%;
+   
+    display: block;
+    margin: auto;
+}
+
+#j4{
+    width: 30%;
+    height: 30%;
+    align-items: center;
+    display: block;
+    margin: auto;
+    
+}
+#j5{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: auto;
+    
+   
+    
+}
+
+#video{
+    padding-left: auto;
+    display: block;
+    margin: auto;
+}
+#video2{
+    padding-left: auto;
+    display: block;
+    margin: auto;
+}
+
+#video3{
+    padding-left: auto;
+    display: block;
+    margin: auto;
+}
+#video4{
+    padding-left: auto;
+    display: block;
+    margin: auto;
+}
+#image1{
+    
+    display: block;
+    margin: auto;
+    border-radius: 20%;
+    border-color: aqua;
+}
+.entar{
+    align-items: center;
+    border-radius: 20%;
+    color: red;
+    border-color: aqua;
+}

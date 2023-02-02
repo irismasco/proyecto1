@@ -1,0 +1,128 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/39/14/4e/39144e277c1f32e179d242e8ffbee713.jpg);
+    backdrop-filter: blur(6px);
+    font-size: 120% ;
+    margin: 0 auto ;
+    width: 90% ;
+}
+
+header{
+    background: rgb(158, 158, 156) ;
+    width: 100% ;
+}
+
+img{
+    width: 50% ;
+    height: auto ;
+}
+
+nav{
+    background: rgb(141, 140, 140);
+    height: 50px;
+    width: 100%;
+}
+
+#home{
+    background-color: rgb(252, 252, 252);
+    font-family: cursive;
+    color: black;
+    text-align: center;}
+    
+    
+    #historia{
+        background-color: rgb(98, 233, 86);
+        font-family: cursive;
+        color: black;
+        text-align: center;
+    }
+    #album{
+        background-color: rgb(242, 245, 67);
+        font-family: cursive;
+        color: black;
+        text-align: center;
+    }
+    #corrido{
+        background-color: rgb(228, 49, 49);
+        font-family: cursive;
+        color: black;
+        text-align: center;
+    }
+
+#principal{
+    background-image: url(https://i.pinimg.com/736x/4c/a8/c7/4ca8c793e83f622afc42e3c093685842.jpg);
+    backdrop-filter: blur(7px);
+    float: left ;
+    width: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ #texto1{
+    
+    float: left ;
+    width: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#texto2{
+   
+    float: left ;
+    width: 70%;
+    font-family: cursive;
+    text-align: center;
+}
+ 
+#texto3{
+   
+    float: left ;
+    width: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+  
+#nombre{
+   
+    float: left ;
+    width: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+  
+#lateral{
+    background-image: url(https://i.pinimg.com/736x/90/b7/23/90b72355d6f3fe0023808c7ae9060f24.jpg);
+    backdrop-filter: blur(7px);
+    float: left;
+    width: 30%;
+}
+
+footer{
+    background: black;
+    color: yellow;
+    float: left;
+    padding: 2%;
+    width: 96%;
+}
+
+
+article{
+    background: rgb(63, 112, 112);
+    border-radius: 10px;
+    margin: 2%;
+    padding: 2%;
+    width: 92%;
+}
+
+aside{
+    background: rgb(118, 252, 85);
+    border-radius: 10px;
+    margin: 1%;
+    padding: 1%;
+    width: 96%;
+}
+
+@media (max-width: 600px){
+    body {background: black;}
+
+    #principal, #lateral {width: 100%;}
+
+    img{width: 100%; height: auto;}
+}
